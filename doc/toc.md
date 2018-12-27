@@ -1,5 +1,6 @@
 
 # Block chain 
+https://jeiwan.cc/posts/building-blockchain-in-go-part-4/
 https://en.bitcoin.it/wiki/Protocol_documentation
 https://en.bitcoin.it/wiki/Block_hashing_algorithm    
 https://en.bitcoin.it/wiki/Proof_of_work     

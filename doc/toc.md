@@ -21,6 +21,8 @@ https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-i
 
 ## Chart 6
 https://en.bitcoin.it/wiki/Script
+https://en.bitcoin.it/wiki/Protocol_documentation
+
 
 
 

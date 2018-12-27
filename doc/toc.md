@@ -17,5 +17,8 @@ https://en.bitcoin.it/wiki/Address
 https://en.bitcoin.it/wiki/Base58Check_encoding
 https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
 
+## Chart 6
+https://en.bitcoin.it/wiki/Script
+
 
 
